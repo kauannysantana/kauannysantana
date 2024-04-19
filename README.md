@@ -1,4 +1,4 @@
-## Oiii!! eu me chamo kauanny(kakau)
+## Oiii!! eu me chamo kakau 💜
 ![kakau GitHub stats](https://github-readme-stats.vercel.app/api?username=kakau&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
